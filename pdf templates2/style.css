@@ -1,0 +1,59 @@
+body {
+  background-color: #cec6c6;
+  font-family: "Inter";
+  /* margin:0; */
+}
+.container {
+  min-height: 95vh;
+  width: 40%;
+  background-color: #ffff;
+  margin-left: 30%;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+  position: absolute;
+}
+.pharmlist {
+  text-align: center;
+  line-height: 0.2;
+}
+.line-1 {
+  height: 1px;
+  background: #808080;
+  margin-top: 5%;
+}
+.date {
+  margin-left: 70%;
+  margin-top: 3%;
+  word-spacing: 5px;
+}
+.date-1 {
+  color: #767577;
+}
+.lists {
+  display: flex;
+  justify-content: space-around;
+  background-color: #f5f5f7;
+}
+.items-2 {
+  display: flex;
+  justify-content: space-around;
+}
+.items {
+  margin-left: -2%;
+}
+.line-2 {
+  height: 1px;
+  background: #808080;
+}
+.total-1 {
+  font-weight: 800;
+  margin-left: 80%;
+  font-size: 15px;
+  word-spacing: 5px;
+}
+.last {
+  text-align: center;
+  margin-top: 5%;
+  font-size: 15px;
+  line-height: 0.25;
+}
